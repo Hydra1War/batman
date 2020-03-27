@@ -396,7 +396,7 @@ body {
     }
 
     .poster {
-        margin-top: -20%;
+/*         margin-top: -20%; */
         display: inline-block;
         width: 100%;
     }
